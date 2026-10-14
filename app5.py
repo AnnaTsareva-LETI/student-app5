@@ -674,10 +674,10 @@ st.markdown(
     Закон распространения неопределенности:
 
     $$
-    u_R = \\sqrt{
-    \\left(\\frac{\\partial R}{\\partial U} u_U\\right)^2 +
-    \\left(\\frac{\\partial R}{\\partial I} u_I\\right)^2
-    }
+    u_R = \\sqrt{{
+    \\left(\\frac{{\\partial R}}{{\\partial U}} u_U\\right)^2 +
+    \\left(\\frac{{\\partial R}}{{\\partial I}} u_I\\right)^2
+    }}
     $$
 
     Частные производные:
